@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Belum ada foto alat">
+<rect width="400" height="300" fill="#eaf1fd"/>
+<g fill="none" stroke="#8fa9d4" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+<rect x="140" y="95" width="120" height="90" rx="14"/>
+<path d="m150 172 34-34 24 24 18-18 34 34"/>
+</g>
+<circle cx="236" cy="124" r="9" fill="#8fa9d4"/>
+<text x="200" y="224" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="600" fill="#6f86ad">Belum ada foto</text>
+</svg>

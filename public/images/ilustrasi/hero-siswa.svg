@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 330" role="img" aria-label="Ilustrasi peralatan sekolah: laptop, proyektor, kamera, dan buku"><defs><linearGradient id="schh" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3b82f6"/><stop offset="1" stop-color="#1d4ed8"/></linearGradient></defs><ellipse cx="240" cy="296" rx="215" ry="14" fill="#172554" opacity=".22"/><circle cx="430" cy="52" r="10" fill="#2dd4bf"/><circle cx="52" cy="70" r="6" fill="#ffffff" opacity=".7"/><rect x="395" y="262" width="34" height="34" rx="10" fill="#2dd4bf" transform="rotate(16 412 279)"/>
+<g stroke="#ffffff" stroke-width="4" stroke-linecap="round" opacity=".6"><path d="M96 38v14M89 45h14"/><path d="M448 150v12M442 156h12"/></g><g transform="translate(112 34) scale(.92)">
+<rect x="104" y="64" width="192" height="130" rx="12" fill="#172554"/>
+<rect x="113" y="73" width="174" height="112" rx="5" fill="url(#schh)"/>
+<rect x="125" y="86" width="52" height="7" rx="3.5" fill="#fff" opacity=".9"/>
+<rect x="125" y="100" width="88" height="6" rx="3" fill="#fff" opacity=".55"/>
+<rect x="137" y="113" width="70" height="6" rx="3" fill="#2dd4bf"/>
+<rect x="137" y="126" width="104" height="6" rx="3" fill="#fff" opacity=".55"/>
+<rect x="125" y="139" width="60" height="6" rx="3" fill="#fff" opacity=".55"/>
+<rect x="137" y="152" width="84" height="6" rx="3" fill="#fff" opacity=".4"/>
+<circle cx="262" cy="150" r="22" fill="#2dd4bf" opacity=".95"/><path d="M252 150l7 7 13-14" fill="none" stroke="#172554" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M72 198h256l-12 20a9 9 0 0 1-8 5H92a9 9 0 0 1-8-5z" fill="#e6eefb" stroke="#a9bde0" stroke-width="2"/>
+<rect x="172" y="198" width="56" height="7" rx="3.5" fill="#a9bde0"/></g><g transform="translate(12 52) scale(.6)">
+
+<rect x="56" y="128" width="190" height="96" rx="22" fill="#ffffff" stroke="#a9bde0" stroke-width="2.5"/>
+<rect x="56" y="128" width="190" height="30" rx="22" fill="#dbeafe"/>
+<circle cx="196" cy="176" r="38" fill="#172554"/><circle cx="196" cy="176" r="28" fill="#1d4ed8"/><circle cx="196" cy="176" r="16" fill="#172554"/><circle cx="190" cy="170" r="6" fill="#2dd4bf"/>
+<g stroke="#a9bde0" stroke-width="4" stroke-linecap="round"><path d="M80 160h40M80 174h40M80 188h40M80 202h40"/></g>
+<circle cx="86" cy="142" r="5" fill="#2dd4bf"/><circle cx="102" cy="142" r="5" fill="#3b82f6"/>
+<rect x="80" y="224" width="30" height="12" rx="5" fill="#172554"/><rect x="190" y="224" width="30" height="12" rx="5" fill="#172554"/></g><g><rect x="30" y="248" width="156" height="26" rx="7" fill="#f59e0b"/><rect x="44" y="222" width="136" height="26" rx="7" fill="#ffffff"/><rect x="26" y="196" width="146" height="26" rx="7" fill="#93c5fd"/>
+<rect x="44" y="204" width="48" height="6" rx="3" fill="#172554" opacity=".45"/><rect x="62" y="230" width="58" height="6" rx="3" fill="#1d4ed8" opacity=".55"/><rect x="48" y="256" width="40" height="6" rx="3" fill="#172554" opacity=".3"/></g>
+<g transform="rotate(24 214 250)"><rect x="206" y="168" width="14" height="86" rx="4" fill="#2dd4bf"/><rect x="206" y="168" width="14" height="14" rx="4" fill="#3b82f6"/><path d="M206 254h14l-7 16z" fill="#172554"/></g><g transform="translate(290 178) scale(.52)">
+<path d="M150 98l14-18h72l14 18z" fill="#1d4ed8"/>
+<rect x="258" y="86" width="30" height="14" rx="7" fill="#2dd4bf"/>
+<rect x="84" y="98" width="232" height="148" rx="24" fill="#ffffff" stroke="#a9bde0" stroke-width="2.5"/>
+<path d="M84 150h232V122a24 24 0 0 0-24-24H108a24 24 0 0 0-24 24z" fill="#1d4ed8"/>
+<rect x="104" y="116" width="34" height="16" rx="5" fill="#2dd4bf"/>
+<circle cx="200" cy="178" r="56" fill="#172554"/><circle cx="200" cy="178" r="44" fill="#1e3a8a"/><circle cx="200" cy="178" r="30" fill="#172554"/><circle cx="200" cy="178" r="17" fill="#2563eb"/>
+<circle cx="190" cy="168" r="6" fill="#fff" opacity=".9"/><circle cx="212" cy="190" r="3" fill="#fff" opacity=".5"/>
+<circle cx="284" cy="130" r="7" fill="#f59e0b"/>
+<rect x="268" y="214" width="32" height="8" rx="4" fill="#d6e2f5"/></g></svg>

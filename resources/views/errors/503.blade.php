@@ -1,0 +1,5 @@
+@extends('errors.layout')
+@section('title', 'Sedang dalam pemeliharaan - SIPEMAL')
+@section('code', '503')
+@section('heading', 'Sedang dalam pemeliharaan')
+@section('message', 'SIPEMAL sedang diperbarui. Silakan kembali beberapa saat lagi.')

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Ilustrasi laptop"><title>Ilustrasi laptop</title><defs><linearGradient id="bglapx" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f3f8ff"/><stop offset="1" stop-color="#d6e6ff"/></linearGradient>
+<linearGradient id="sclapx" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3b82f6"/><stop offset="1" stop-color="#1d4ed8"/></linearGradient>
+<linearGradient id="bmlapx" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#2dd4bf" stop-opacity=".55"/><stop offset="1" stop-color="#2dd4bf" stop-opacity="0"/></linearGradient></defs><rect width="400" height="300" fill="url(#bglapx)"/><circle cx="335" cy="50" r="86" fill="#fff" opacity=".45"/><circle cx="48" cy="268" r="70" fill="#93c5fd" opacity=".35"/><rect x="300" y="205" width="64" height="64" rx="18" fill="#2dd4bf" opacity=".7" transform="rotate(18 332 237)"/><circle cx="60" cy="52" r="9" fill="#2dd4bf"/><circle cx="92" cy="30" r="4" fill="#3b82f6" opacity=".6"/><ellipse cx="200" cy="246" rx="140" ry="12" fill="#172554" opacity=".12"/>
+<rect x="104" y="64" width="192" height="130" rx="12" fill="#172554"/>
+<rect x="113" y="73" width="174" height="112" rx="5" fill="url(#sclapx)"/>
+<rect x="125" y="86" width="52" height="7" rx="3.5" fill="#fff" opacity=".9"/>
+<rect x="125" y="100" width="88" height="6" rx="3" fill="#fff" opacity=".55"/>
+<rect x="137" y="113" width="70" height="6" rx="3" fill="#2dd4bf"/>
+<rect x="137" y="126" width="104" height="6" rx="3" fill="#fff" opacity=".55"/>
+<rect x="125" y="139" width="60" height="6" rx="3" fill="#fff" opacity=".55"/>
+<rect x="137" y="152" width="84" height="6" rx="3" fill="#fff" opacity=".4"/>
+<circle cx="262" cy="150" r="22" fill="#2dd4bf" opacity=".95"/><path d="M252 150l7 7 13-14" fill="none" stroke="#172554" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M72 198h256l-12 20a9 9 0 0 1-8 5H92a9 9 0 0 1-8-5z" fill="#e6eefb" stroke="#a9bde0" stroke-width="2"/>
+<rect x="172" y="198" width="56" height="7" rx="3.5" fill="#a9bde0"/></svg>

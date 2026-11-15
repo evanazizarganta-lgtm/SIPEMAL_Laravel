@@ -1,0 +1,5 @@
+@extends('errors.layout')
+@section('title', 'Akses ditolak - SIPEMAL')
+@section('code', '403')
+@section('heading', 'Akses ditolak')
+@section('message', (isset($exception) && $exception->getMessage()) ? $exception->getMessage() : 'Akun Anda tidak memiliki izin untuk membuka halaman ini.')

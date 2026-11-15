@@ -1,0 +1,5 @@
+@extends('errors.layout')
+@section('title', 'Halaman tidak ditemukan - SIPEMAL')
+@section('code', '404')
+@section('heading', 'Halaman tidak ditemukan')
+@section('message', 'Alamat yang Anda buka tidak ada atau sudah dipindahkan. Periksa kembali alamatnya, atau kembali ke beranda.')

@@ -1,0 +1,5 @@
+@extends('errors.layout')
+@section('title', 'Berkas terlalu besar - SIPEMAL')
+@section('code', '413')
+@section('heading', 'Berkas terlalu besar')
+@section('message', 'Ukuran data yang dikirim melebihi batas server. Gunakan foto yang lebih kecil (maksimal 2 MB) lalu coba lagi.')
